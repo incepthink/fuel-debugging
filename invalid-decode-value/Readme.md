@@ -7,7 +7,7 @@ Follow the steps below to replicate the issue.
 
 1. Navigate to the `./execute` folder from the `/invalid-decode-value` directory:
    ```sh
-   cd ./invalid-decode-value/execute
+   cd ./execute
    ```
 
 2. Install the dependencies using Bun:
