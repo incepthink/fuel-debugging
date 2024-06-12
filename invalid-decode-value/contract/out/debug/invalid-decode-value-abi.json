@@ -1,4 +1,5 @@
 {
+  "encoding": "1",
   "types": [
     {
       "typeId": 0,
@@ -62,7 +63,7 @@
       "type": "struct Address",
       "components": [
         {
-          "name": "value",
+          "name": "bits",
           "type": 1,
           "typeArguments": null
         }
@@ -74,7 +75,7 @@
       "type": "struct ContractId",
       "components": [
         {
-          "name": "value",
+          "name": "bits",
           "type": 1,
           "typeArguments": null
         }
@@ -144,15 +145,7 @@
   ],
   "loggedTypes": [
     {
-      "logId": 0,
-      "loggedType": {
-        "name": "",
-        "type": 3,
-        "typeArguments": []
-      }
-    },
-    {
-      "logId": 1,
+      "logId": "9629041069892043071",
       "loggedType": {
         "name": "",
         "type": 3,
